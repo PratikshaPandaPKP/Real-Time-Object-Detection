@@ -34,5 +34,5 @@ This script demonstrates how to use a pre-trained SSD model from the COCO datase
 **Notes:**
 Ensure that the paths to "coco.names", "ssd_mobilenet_v3_large_coco_2020_01_14.pbtxt", and "frozen_inference_graph.pb" are correctly specified and accessible. Adjust `thres` (threshold) and camera properties (`cap.set()`) as needed for different environments or requirements.
 
-**Video link of the project in action:** 
+**Video Link of The Project in Action:** 
 https://www.loom.com/share/c4764f81d0d64357ab3a9bbddfc1981d?sid=3ce5d01f-49bd-455e-bb67-d3c75a5c9be3
